@@ -1,0 +1,83 @@
+{
+  "Trainee Junior": {
+    "taxa_individual": 1.5,
+    "colaboradores": [
+      {
+        "email": "teste1@espanhafacil.com",
+        "antigo": false
+      },
+      {
+        "email": "teste2@espanhafacil.com",
+        "antigo": false
+      }
+    ]
+  },
+  "Trainee Pleno": {
+    "taxa_individual": 2,
+    "colaboradores": [
+      {
+        "email": "gabriel.possomato@espanhafacil.com",
+        "antigo": false
+      },
+      {
+        "email": "teste3@espanhafacil.com",
+        "antigo": false
+      }
+    ]
+  },
+  "Trainee Líder": {
+    "taxa_individual": 2.5,
+    "colaboradores": [
+      {
+        "email": "teste4@espanhafacil.com",
+        "antigo": false
+      },
+      {
+        "email": "teste5@espanhafacil.com",
+        "antigo": false
+      }
+    ]
+  },
+  "Supervisor": {
+    "taxa_individual": 3,
+    "taxa_equipe": 1,
+    "colaboradores": [
+      {
+        "email": "teste6@espanhafacil.com",
+        "antigo": false
+      },
+      {
+        "email": "teste7@espanhafacil.com",
+        "antigo": false
+      }
+    ]
+  },
+  "Coordenador": {
+    "taxa_individual": 3.5,
+    "taxa_equipe": 1.5,
+    "colaboradores": [
+      {
+        "email": "teste8@espanhafacil.com",
+        "antigo": false
+      },
+      {
+        "email": "teste9@espanhafacil.com",
+        "antigo": false
+      }
+    ]
+  },
+  "Diretor": {
+    "taxa_individual": 4,
+    "taxa_equipe": 2,
+    "colaboradores": [
+      {
+        "email": "teste10@espanhafacil.com",
+        "antigo": false
+      },
+      {
+        "email": "andre.martins@espanhafacil.com",
+        "antigo": true
+      }
+    ]
+  }
+}
